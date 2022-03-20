@@ -1,2 +1,2 @@
 # nikoniyazi.github.io
-test
+html website with github pages lol
