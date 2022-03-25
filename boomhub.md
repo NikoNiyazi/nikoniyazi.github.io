@@ -5,9 +5,9 @@
 ### What is the Loadstring?
 - Depends.
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NikoNiyazi/boomhub/main/oldmain.lua",true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomhubNumber1/boomhub/main/oldmain.lua",true))() 
 -- old, will change after some time.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NikoNiyazi/boomhub/main/mainuniversal.lua", true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomhubNumber1/boomhub/main/mainuniversal.lua", true))() 
 -- new universal script.
 ```
 ### Discord?
