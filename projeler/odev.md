@@ -1,5 +1,5 @@
 ## ÖDEV NE?
-### TARIH 
+### SON GÜNCELLEME : 14 NİSAN 2022
 //////////////////////////
 #### DERS1
 - ÖDEV1
