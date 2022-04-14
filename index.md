@@ -1,3 +1,0 @@
-- [Ödev Ne?](https://nikoniyazi.github.io/projeler/odev)
-- [portofolio/portfolyo](https://nikoniyazi.github.io/main)
-- [source/kaynak kodu](https://github.com/NikoNiyazi/nikoniyazi.github.io/)
