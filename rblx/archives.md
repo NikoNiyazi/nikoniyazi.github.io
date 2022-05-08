@@ -1,2 +1,2 @@
         #LINK#                      #DESTINATION#
-https://pnd.fyi/JylQNJ    https://nikoniyazi.github.io/rblx/exploits
+https://pnd.fyi/JylQNJ    https://mboost.me/a/6wt
